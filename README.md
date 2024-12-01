@@ -26,7 +26,7 @@ python spiderbolt.py
 ```
 
 Follow the on-screen prompts to:  
-1. Enter the domain to scrape link.  
+1. Enter the domain to scrape links.  
 2. Specify the number of threads you want.    
 
 The script will handle the rest, providing you with real-time status updates for each request.
